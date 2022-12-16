@@ -16,7 +16,7 @@ This ID is artificial (not the ID returned by the blockchain) calculated from 4 
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file in the same folder of your python code, each one having his primary key (you can get them from Ganache app ) :
 
 `Alice`
 
